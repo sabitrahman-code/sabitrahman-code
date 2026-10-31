@@ -9,19 +9,11 @@
 </a>
 </div>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=sabitrahman-code&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
----
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=sabitrahman-code&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
 
-</div>
 
 ---
 

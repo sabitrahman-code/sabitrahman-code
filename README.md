@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,100:222222&text=SABIT%20RAHMAN&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" alt="Sabit Rahman profile banner" />
 
-<div style="background-color: lightblue; padding: 20px;">
+<div style="background-color: black; padding: 200px;">
 <a href="https://github.com/sabitrahman-code">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Exploring+Web+Technologies+%26+Databases;C%23+%7C+.NET+%7C+SQL+Server" alt="Typing introduction" />
 </a>

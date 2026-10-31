@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,100:222222&text=SABIT%20RAHMAN&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" alt="Sabit Rahman profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FF512F,100:DD2476&text=SABIT%20RAHMAN%20CHOWDHURY&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" alt="Sabit Rahman profile banner" />
 
-<div style="color: black;">
+<div>
   
 <a href="https://github.com/sabitrahman-code">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Exploring+Web+Technologies+%26+Databases;C%23+%7C+.NET+%7C+SQL+Server" alt="Typing introduction" />
@@ -50,14 +50,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:222222,100:000000&section=footer" width="100%" alt="Footer" />
-
-
-
-
-
-
-
 
 <br />
 
@@ -76,3 +68,4 @@
 ![](https://streak-stats.demolab.com/?user=sabitrahman-code&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sabitrahman-code&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF512F,100:DD2476&section=footer" width="100%" alt="Footer" />

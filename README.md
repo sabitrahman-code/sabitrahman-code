@@ -7,11 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Exploring+Web+Technologies+%26+Databases;C%23+%7C+.NET+%7C+SQL+Server" alt="Typing introduction" />
 </a>
 
-<br />
-
-<img src="./assets/matrix-binary.png" width="420" alt="Black and white binary Matrix-style portrait" />
-
-<br />
 
 <img src="https://komarev.com/ghpvc/?username=sabitrahman-code&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -68,8 +63,11 @@
 
 
 
-# 💫 About Me:
-🌱 Continuously learning and exploring Computer Science and Engineering.<br>💻 Interested in Software Development, Web Technologies, and Database Systems.<br>🖥️ Experienced in C#, .NET, and Windows Forms application development.<br>🗄️ Working with SQL Server and relational database management.<br>🎯 Focused on improving my development skills through academic and personal projects.
+<br />
+
+<img src="./assets/matrix-binary.png" width="420" alt="Black and white binary Matrix-style portrait" />
+
+<br />
 
 
 ## 🌐 Socials:

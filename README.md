@@ -43,27 +43,6 @@
 
 </div>
 
-## `GITHUB STATISTICS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sabitrahman-code&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&include_all_commits=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com?user=sabitrahman-code&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub contribution streak" />
-
-<br />
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabitrahman-code&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Most used languages" />
-
-</div>
-
-## `CONTRIBUTION GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabitrahman-code&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-
-</div>
-
 ## `CONNECT`
 
 <div align="center">

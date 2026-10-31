@@ -5,9 +5,17 @@
 <div>
   
 <a href="https://github.com/sabitrahman-code">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Exploring+Web+Technologies+%26+Databases;C%23+%7C+.NET+%7C+SQL+Server" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&gradient=100%2CFF512F%2CDD2476&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Exploring+Web+Technologies+%26+Databases;C%23+%7C+.NET+%7C+SQL+Server" alt="Typing introduction" />
 </a>
 </div>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sabitrahman-code&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+---
 
 <br>
 

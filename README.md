@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FF512F,100:DD2476&text=SABIT%20RAHMAN%20CHOWDHURY&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" alt="Sabit Rahman profile banner" />
@@ -67,36 +66,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=sabitrahman-code&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sabitrahman-code&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sabitrahman-code&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- CONTRIBUTION SHOOTER -->
-
-## `CONTRIBUTION SHOOTER`
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sabitrahman-code/sabitrahman-code/output/commit-invaders-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sabitrahman-code/sabitrahman-code/output/commit-invaders.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/sabitrahman-code/sabitrahman-code/output/commit-invaders.svg"
-      alt="GitHub Contribution Shooter"
-      width="100%"
-    />
-
-  </picture>
-
-</div>
-
-<br />
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF512F,100:DD2476&section=footer" width="100%" alt="Footer" />

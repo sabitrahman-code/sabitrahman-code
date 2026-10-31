@@ -1,3 +1,94 @@
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,100:222222&text=SABIT%20RAHMAN&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" alt="Sabit Rahman profile banner" />
+
+<a href="https://github.com/sabitrahman-code">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Exploring+Web+Technologies+%26+Databases;C%23+%7C+.NET+%7C+SQL+Server" alt="Typing introduction" />
+</a>
+
+<br />
+
+<img src="./assets/matrix-binary.png" width="420" alt="Black and white binary Matrix-style portrait" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=sabitrahman-code&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+---
+
+## `WHO AM I?`
+
+- Computer Science and Engineering student, continuously learning and exploring technology.
+- Interested in software development, web technologies, and database systems.
+- Experienced with **C#**, **.NET**, **Windows Forms**, and **Microsoft SQL Server**.
+- Exploring frontend and backend web development through academic and personal projects.
+- Focused on writing better code, learning new tools, and building useful applications.
+
+## `TECH STACK`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
+<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Windows_Forms-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms" />
+<img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<br />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+
+</div>
+
+## `GITHUB STATISTICS`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sabitrahman-code&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-streak-stats.demolab.com?user=sabitrahman-code&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub contribution streak" />
+
+<br />
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabitrahman-code&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Most used languages" />
+
+</div>
+
+## `CONTRIBUTION GRAPH`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabitrahman-code&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+## `CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/sabitrahman-code">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+
+</div>
+
+<div align="center">
+
+**`01` `10` `01` — KEEP LEARNING. KEEP BUILDING. — `10` `01` `10`**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:222222,100:000000&section=footer" width="100%" alt="Footer" />
+
+
+
+
+
+
+
+
 # 💫 About Me:
 🌱 Continuously learning and exploring Computer Science and Engineering.<br>💻 Interested in Software Development, Web Technologies, and Database Systems.<br>🖥️ Experienced in C#, .NET, and Windows Forms application development.<br>🗄️ Working with SQL Server and relational database management.<br>🎯 Focused on improving my development skills through academic and personal projects.
 

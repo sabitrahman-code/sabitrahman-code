@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FF512F,100:DD2476&text=SABIT%20RAHMAN%20CHOWDHURY&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" alt="Sabit Rahman profile banner" />
 
-<div>
+<div align="center">
   
 <a href="https://github.com/sabitrahman-code">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&gradient=100%2CFF512F%2CDD2476&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Exploring+Web+Technologies+%26+Databases;C%23+%7C+.NET+%7C+SQL+Server" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=22&pause=1000&color=FF512F&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Exploring+Web+Technologies+%26+Databases;C%23+%7C+.NET+%7C+SQL+Server" alt="Typing introduction" />
 </a>
 </div>
 

@@ -71,13 +71,10 @@
 
 ---
 
-## `CONTRIBUTION SPACE SHOOTER` 🚀
 
 <div align="center">
 
 <img src="./assets/gh-space-shooter.gif" width="100%" alt="Animated space shooter game generated from my GitHub contribution graph" />
-
-**Every contribution becomes part of the game. Keep coding!**
 
 </div>
 
